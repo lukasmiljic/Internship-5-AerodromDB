@@ -1,2 +1,2 @@
-# Internship-5-AerodromDB
-DUMP 5th homework - Basics SQL
+## Basic SQL
+Airport database for tracking flights, tickets and planes.
